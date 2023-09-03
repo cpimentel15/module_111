@@ -1,0 +1,20 @@
+The data was analyzed to answer the following questions: (10 points)
+
+How many months exist on Mars? (5 points)
+There are 12 months
+
+How many Martian days' worth of data are there? (5 points)
+1867
+
+The data was analyzed to answer the following questions, and a data visualization was created to support each answer: (30 points)
+
+Which month, on average, has the lowest temperature? The highest? (10 points)
+The month with the lowest average temperature is month 3 with an average temperature of -83.31 degrees.
+The month with the highest average temperature is month 1 with an average temperature of -77.16 degrees.
+
+Which month, on average, has the lowest atmospheric pressure? The highest? (10 points)
+The month with the lowest average atmospheric pressure is month 5 with an average pressure of 748.56 units.
+The month with the highest average atmospheric pressure is month 9 with an average pressure of 913.31 units.
+
+How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. (10 points)
+The time between two consecutive peaks is approximately 675 days. Based on the plot, it seems that a Martian year is roughly 675 days long. A quick internet search confirms that a Mars year is, in fact, equivalent to 687 Earth days.
